@@ -1,0 +1,46 @@
+*{
+    background-color: #111;
+    color: rgba(255, 255, 255, 0.733);
+    font-weight: 600;
+}
+
+#box1{
+    height: 200px;
+    width: 200px; 
+    background-color: yellow;
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    
+}
+
+
+#nav{
+justify-items: center;
+display: flex;
+justify-content:space-between;
+}
+
+#navVal{
+    color: red;
+    display: flex;
+    gap:40px;
+}
+
+
+.CenterHead{
+    font-size: 40px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+   padding-top: 250px;
+}
